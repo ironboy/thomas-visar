@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+Photos/
+Music/
+Sounds/
+PowerPoints/
+PDFs/
+
+
